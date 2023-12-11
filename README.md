@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Studying at Biliran Province State University<br>Learning PHP, Laravel and React<br>
+I'm Currently Studying at Biliran Province State University<br>Learning JS, Bootstrap and React<br>
 
 
 ## 🌐 Socials:
