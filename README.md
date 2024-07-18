@@ -12,7 +12,7 @@ I'm Currently Studying at Biliran Province State University<br>Learning Laravel 
 [![](https://visitcount.itsvg.in/api?id=KenXcode&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<details> 
+
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -42,14 +42,6 @@ I'm Currently Studying at Biliran Province State University<br>Learning Laravel 
 
   <h3>⚡ Recent GitHub Activity</h3>
 
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#279](https://github.com/0xkenn/readme-typing-svg/issues/279) in [DenverCoder1/readme-typing-svg](https://github.com/0xkenn/readme-typing-svg)
-2. 🎉 Merged PR [#1139](https://github.com/0xkenn/custom-icon-badges/pull/1139) in [DenverCoder1/custom-icon-badges](https://github.com/0xkenn/custom-icon-badges)
-3. 🎉 Merged PR [#1141](https://github.com/0xkenn/custom-icon-badges/pull/1141) in [DenverCoder1/custom-icon-badges](https://github.com/0xkenn/custom-icon-badges)
-4. 🎉 Merged PR [#1142](https://github.com/0xkenn/custom-icon-badges/pull/1142) in [DenverCoder1/custom-icon-badges](https://github.com/0xkenn/custom-icon-badges)
-5. ❗️ Closed issue [#222](https://github.com/0xkenn/readme-typing-svg/issues/222) in [DenverCoder1/readme-typing-svg](https://github.com/0xkenn/readme-typing-svg)
-<!--END_SECTION:activity-->
 
-</details>
+
